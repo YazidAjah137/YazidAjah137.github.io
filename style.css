@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+* {
+  outline: none;
+  font-family: "Staatliches";
+}
+
+#title {
+  color: #E6E6E6;
+  font-size: 60px;
+}
+
+#container {
+  width: 90%;
+  margin: auto;
+  border: solid 10px #935A25;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #005104;
+}
+
+#gnrt {
+  width: 40%;
+  height: 50px;
+  margin: 15px 0 50px 0;
+  border-style: none;
+  border: solid 5px #FFFFFF;
+  border-radius: 15px;
+  background-color: transparent;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#jwb, #kirim, #skor, #isi_soal {
+  margin: 10px;
+}
+
+#skor, #soal {
+  color: #FFFFFF;
+}
+
+#soal {
+  font-size: 37.5px;
+}
+
+#jwb {
+  width: 70%;
+  height: 30px;
+  padding: 5px;
+  text-align: center;
+  border-style: none;
+  border: solid 3px #FFFFFF;
+  border-radius: 10px;
+  background-color: #015200;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#kirim, #hint {
+  width: 30%;
+  padding: 10px;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #A7D5FF;
+  color: #2F4050;
+  font-size: 17px;
+}
+
+#kirim {
+  margin: 20px 0 50px 0;
+}
+
+#hint {
+  font-size: 15px;
+}
+
+#skor {
+  font-size: 23px;
+}
+
+.tempat_skorPemain {
+  margin: 50px auto;
+  color: #FFFFFF;
+  font-size: 40px;
+}
